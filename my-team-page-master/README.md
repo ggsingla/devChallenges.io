@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">My Team Page</h1>
 
 <div align="center">
@@ -8,45 +6,42 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-submissions.netlify.app/404-not-found-master/">
+    <a href="https://devchallenge-2.onrender.com/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ggsingla/devChallenges.io/tree/main/404-not-found-master">
+    <a href="https://github.com/ggsingla/devChallenges.io/tree/main/my-team-page-master">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
 </div>
 
-
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/76390562/147914720-6fce2b46-c273-49ca-807a-11e879905df0.png)
+![screenshot](./assets/preview.png)
 
-This is a simple 404 error page with a minimal design. You can see the live demo for the same with the link provided at the top.
+This is a **My Team Page** with a minimal design. You can see the live demo for the same with the link provided at the top.
 
 Feel free to copy any code if you find a use for it in your own projects, you can directly use this page in your project after changing the CSS just a little bit.
 <br><br>
 
 > Note: This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
 ### Built With
-
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Features
+
 - Mobile-First Approach
 - Semantic HTML
 - CSS variables
 - Fully Responsive
-
 
 ## Reach Me
 
