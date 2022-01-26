@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-submissions.netlify.app/404-not-found-master/">
+    <a href="https://challenge-1.onrender.com/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ggsingla/devChallenges.io/tree/main/404-not-found-master">
+    <a href="https://github.com/ggsingla/devChallenges.io/tree/Challenge-1">
       Solution
     </a>
     <span> | </span>
