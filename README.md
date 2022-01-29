@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot](./assets/preview.png)
+![screenshot](./assets/Preview.png)
 
 This is a **Interior Designer Landing Page** with a minimal design. You can see the live demo for the same with the link provided at the top.
 
