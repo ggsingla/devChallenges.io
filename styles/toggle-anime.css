@@ -1,0 +1,88 @@
+.burger {
+  cursor: pointer;
+}
+
+.burger .first {
+  animation: first-rev 0.6s ease-in-out forwards;
+}
+.burger .middle {
+  animation: middle-rev 0.6s ease-in-out forwards;
+}
+.burger .last {
+  animation: last-rev 0.6s ease-in-out forwards;
+}
+.burger.show .first {
+  animation: first 0.6s ease-in-out forwards;
+}
+.burger.show .middle {
+  animation: middle 0.6s ease-in-out forwards;
+}
+.burger.show .last {
+  animation: last 0.6s ease-in-out forwards;
+}
+
+@keyframes first {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, 6.5px, 0);
+  }
+  100% {
+    transform: translate3d(0, 6.5px, 0) rotate(45deg);
+  }
+}
+
+@keyframes middle {
+  to {
+    transform: scale(0);
+    opacity: 0;
+  }
+}
+
+@keyframes last {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, -6.5px, 0);
+  }
+  100% {
+    transform: translate3d(0, -6.5px, 0) rotate(135deg);
+  }
+}
+
+@keyframes first-rev {
+  0% {
+    transform: translatey(6.5px) rotate(45deg);
+  }
+  50% {
+    transform: translatey(6.5px) rotate(0);
+  }
+  100% {
+    transform: translatey(0) rotate(0);
+  }
+}
+
+@keyframes middle-rev {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes last-rev {
+  0% {
+    transform: translatey(-6.5px) rotate(135deg);
+  }
+  50% {
+    transform: translatey(-6.5px) rotate(0);
+  }
+  100% {
+    transform: translatey(0) rotate(0);
+  }
+}
