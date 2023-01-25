@@ -1,27 +1,94 @@
-# Challenges from [devchallenges.io](https://devchallenges.io)
+<!-- Please update value in the {}  -->
 
-This repository is a collection of various development challenges that I have completed. Each challenge is stored in its own branch, with the branch name indicating the name of the challenge.
+<h1 align="center">{Your project name}</h1>
 
-## Branches
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-| Branch Name | Challenge Name |
-| ------------|----------------|
-| `Challenge-1` | [404 Not Found](https://github.com/ggsingla/devChallenges.io/tree/Challenge-1)  |
-| `Challenge-2` | [My Team Page](https://github.com/ggsingla/devChallenges.io/tree/Challenge-2)   |
-| `Challenge-3` | [Interior Consultant](https://github.com/ggsingla/devChallenges.io/tree/Challenge-3) |
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-challenge}">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-## How to use
+<!-- TABLE OF CONTENTS -->
 
-1. Clone this repository to your local machine: `git clone https://github.com/ggsingla/devChallenges.io`
-2. Checkout the branch for the challenge you want to view: `git checkout Challenge-1`
-3. Open the code and explore the solution.
+## Table of Contents
 
-## Suggestion & Review
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-If you have any suggestions that you would like to add to this repository, please feel free to create a pull request or create an issue.
+<!-- OVERVIEW -->
 
-Please make sure that each challenge is in its own branch and is well-documented.
+## Overview
 
-## License
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-This repository is licensed under the MIT license. See [LICENSE](https://github.com/ggsingla/devChallenges.io/blob/main/LICENSE) for details.
+Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+
+- Where can I see your demo?
+- What was your experience?
+- What have you learned/improved?
+- Your wisdom? :)
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [React](https://reactjs.org/)
+- [Vue.js](https://vuejs.org/)
+- [Tailwind](https://tailwindcss.com/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
+
+- [x] User story: This is a completed user stories
+- [ ] User story: This is a incompleted user stories
+- [ ] User story: This is a incompleted 2nd user stories
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/your-user-name/your-project-name
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+## Acknowledgements
+
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+
+- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [Node.js](https://nodejs.org/)
+- [Marked - a markdown parser](https://github.com/chjj/marked)
+
+## Contact
+
+- Website [your-website.com](https://{your-web-site-link})
+- GitHub [@your-username](https://{github.com/your-usermame})
+- Twitter [@your-twitter](https://{twitter.com/your-username})
